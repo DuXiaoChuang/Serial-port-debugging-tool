@@ -1,0 +1,4 @@
+E:\C#（ASP.NET）学习专用文档\开发技巧\串口调节小助手—MJ版\串口调节小助手—MJ版\obj\Debug\ResolveAssemblyReference.cache
+E:\C#（ASP.NET）学习专用文档\开发技巧\串口调节小助手—MJ版\串口调节小助手—MJ版\obj\Debug\串口调节小助手_MJ版.Form1.resources
+E:\C#（ASP.NET）学习专用文档\开发技巧\串口调节小助手—MJ版\串口调节小助手—MJ版\obj\Debug\串口调节小助手_MaJing版.Properties.Resources.resources
+E:\C#（ASP.NET）学习专用文档\开发技巧\串口调节小助手—MJ版\串口调节小助手—MJ版\obj\Debug\串口调节小助手—MaJing版.csproj.GenerateResource.Cache

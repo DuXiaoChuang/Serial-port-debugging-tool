@@ -1,0 +1,8 @@
+bin\Debug\串口调节小助手—MJ版.exe
+bin\Debug\串口调节小助手—MJ版.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\串口调节小助手_MJ版.Form1.resources
+obj\Debug\串口调节小助手_MJ版.Properties.Resources.resources
+obj\Debug\串口调节小助手—MJ版.csproj.GenerateResource.Cache
+obj\Debug\串口调节小助手—MJ版.exe
+obj\Debug\串口调节小助手—MJ版.pdb
